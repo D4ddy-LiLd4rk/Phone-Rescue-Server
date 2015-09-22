@@ -2,4 +2,6 @@
     <string name="app_name">Phone Rescue - Server</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="wlan_toggle">Toggle WLAN</string>
+    <string name="data_toggle">Toggle Data</string>
 </resources>

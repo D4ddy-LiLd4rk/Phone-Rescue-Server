@@ -1,12 +1,14 @@
-package com.brobox.phonerescue_server;
+package com.brobox.phonerescue_server.Activity;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
+import com.brobox.phonerescue_server.R;
 
-public class MainActivity extends ActionBarActivity {
+
+public class Activity_Main extends ActionBarActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
